@@ -9,4 +9,4 @@ Dependencies:
   flutter_typeahead: ^3.2.4
   shared_preferences: ^2.0.11
   
-  To download all dependences, you must to write this command in the console flutter pub get
+  To download all dependences, you must to write this command in the console: flutter pub get
